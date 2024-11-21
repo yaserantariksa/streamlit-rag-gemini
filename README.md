@@ -13,8 +13,8 @@
 
 ## Screenshoot
 
-![Chat with Website 1](/ragweb1.png)
+![Chat with Website 1](/ragweb1.webp)
 
-![Chat with Website 2](/ragweb2.png)
+![Chat with Website 2](/ragweb2.webp)
 
-![Chat with Website 3](/ragweb3.png)
+![Chat with Website 3](/ragweb3.webp)
